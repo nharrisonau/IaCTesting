@@ -14,7 +14,7 @@ def main():
     base_dir= input("Please enter the directory: ")
     print("\n")
     
-    print("Nathan left his mark 2")
+    print("Nathan left his mark 3")
     project_name = input ("Please enter the project name: ")
     print(project_name)
     
